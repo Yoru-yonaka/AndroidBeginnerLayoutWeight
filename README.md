@@ -11,3 +11,7 @@ Linear Layout Weight and Height controls the appearance to cover the ImageView a
 #RelativeLayoutViewids
 
 Relative Layout View functions to control the position of the views.
+
+#PaddingandMargin
+
+Padding and Margin on View to create spacing around.
