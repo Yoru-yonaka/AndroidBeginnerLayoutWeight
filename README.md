@@ -7,3 +7,7 @@
 #LinearLayoutWeight
 
 Linear Layout Weight and Height controls the appearance to cover the ImageView and TextView on whole screen.
+
+#RelativeLayoutViewids
+
+Relative Layout View functions to control the position of the views.
